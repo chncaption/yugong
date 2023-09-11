@@ -29,7 +29,7 @@
         </developer>
         <developer>
             <name>oldbread</name>
-            <url></url>
+            <url/>
             <email>chenm899@gmail.com</email>
             <timezone>8</timezone>
         </developer>
@@ -129,7 +129,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.8</version>
+            <version>1.2.83_noneautotype</version>
         </dependency>
         <dependency>
             <groupId>com.google.guava</groupId>
