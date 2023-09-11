@@ -29,7 +29,7 @@
         </developer>
         <developer>
             <name>oldbread</name>
-            <url></url>
+            <url/>
             <email>chenm899@gmail.com</email>
             <timezone>8</timezone>
         </developer>
@@ -149,7 +149,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>druid</artifactId>
-            <version>1.0.17</version>
+            <version>1.2.18</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
         <dependency>
