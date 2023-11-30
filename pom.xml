@@ -29,7 +29,7 @@
         </developer>
         <developer>
             <name>oldbread</name>
-            <url></url>
+            <url/>
             <email>chenm899@gmail.com</email>
             <timezone>8</timezone>
         </developer>
@@ -184,12 +184,12 @@
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-core</artifactId>
-            <version>1.0.6</version>
+            <version>1.4.12</version>
         </dependency>
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-classic</artifactId>
-            <version>1.0.6</version>
+            <version>1.4.12</version>
         </dependency>
         <dependency>
             <groupId>org.slf4j</groupId>
